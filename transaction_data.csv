@@ -1,0 +1,21 @@
+transaction_id,user_id,transaction_amount,transaction_type,timestamp,merchant_name
+1,101,150.0,deposit,2025-01-01 09:15:00,ABC Store
+2,102,200.0,withdrawal,2025-01-01 10:45:00,XYZ Shop
+3,103,350.0,deposit,2025-01-01 12:00:00,ElectroMart
+4,104,500.0,withdrawal,2025-01-01 13:30:00,SuperBank
+5,101,100.0,deposit,2025-01-02 08:00:00,TechStore
+6,102,50.0,withdrawal,2025-01-02 09:00:00,ABC Store
+7,103,450.0,deposit,2025-01-02 10:20:00,Gadget World
+8,104,250.0,withdrawal,2025-01-02 14:45:00,MarketHub
+9,101,300.0,deposit,2025-01-03 16:00:00,HomeGoods
+10,102,200.0,withdrawal,2025-01-03 17:25:00,SuperBank
+11,103,100.0,deposit,2025-01-04 08:30:00,TechStore
+12,104,150.0,withdrawal,2025-01-04 11:00:00,MarketHub
+13,101,50.0,deposit,2025-01-05 09:00:00,ElectroMart
+14,102,300.0,withdrawal,2025-01-05 10:30:00,Gadget World
+15,103,200.0,deposit,2025-01-06 12:15:00,SuperBank
+16,104,400.0,withdrawal,2025-01-06 13:45:00,TechStore
+17,101,75.0,deposit,2025-01-07 08:00:00,MarketHub
+18,102,500.0,withdrawal,2025-01-07 09:45:00,HomeGoods
+19,103,250.0,deposit,2025-01-08 10:00:00,SuperBank
+20,104,300.0,withdrawal,2025-01-08 11:30:00,ElectroMart
